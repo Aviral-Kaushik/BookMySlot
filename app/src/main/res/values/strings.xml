@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookMySlot</string>
+    <string name="rishabh_jain">Rishabh Jain</string>
+    <string name="close">close</string>
+    <string name="_4_6">4.6</string>
+    <string name="ratings">Ratings</string>
+    <string name="schedule_this_tutor">Schedule this Tutor</string>
+    <string name="date">Date</string>
+    <string name="_03_mar_2022">03 Mar, 2022</string>
+    <string name="time">Time</string>
+    <string name="select_time">Select Time</string>
+    <string name="show_more">Show more</string>
+    <string name="about_me">About Me</string>
+    <string name="dummy_desc">Hi there! I\'m a Java software developer and an Android Engineer. Also, I can develop backend using NodeJS. Apart from this, I have an excellent grasp in the design field also from UI/UX, Wireframing, prototyping and video editing. My strength is devoted to hard work, self-motivation and my work.</string>
+    <string name="_16_00_16_15">16:00-16:15</string>
+</resources>
